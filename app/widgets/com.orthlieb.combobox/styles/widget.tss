@@ -1,0 +1,18 @@
+"#container[platform=ios]": {
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE
+},
+
+"#field[platform=ios]": {
+    left: 0,
+    center: { y: "50%" },
+    width: Ti.UI.FILL
+},
+
+"#dropButton[platform=ios]": {
+    right: 0,
+    width : Ti.UI.SIZE,
+    height : Ti.UI.SIZE,
+    title: '\u25BC',
+    backgroundColor: 'transparent'
+}

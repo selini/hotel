@@ -1,0 +1,82 @@
+
+".container":{
+	backgroundColor: "white"
+}
+
+"#arrival":{
+	top: 100,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 200,
+	hintText: "Date of arrival"
+}
+"#departure":{
+	top: 150,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 200,
+	hintText: "Date of Departure"
+}
+"#numberfRooms":{ 
+	top: 200,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 200,
+	hintText: "number of rooms",
+	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+}
+"#numberfAdults":{
+	top: 250,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 200,
+	hintText: "number of adults"
+}
+"#Childrean17":{
+	top: 300,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 200,
+	hintText: "1-7 childrean"
+}
+"#Childrean712":{ 
+	top: 350,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 200,
+	hintText: "7-12 childrean"
+}
+
+"#book":{
+	top: 400,
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1,
+	height: "auto",
+	width: 90
+}
+
+"#Numberpicker":{
+	top: 210,
+	visible: "false",
+	borderColor: "black",
+	borderRadius: 7,
+	borderWidth: 1
+}
+
+
+
+
+

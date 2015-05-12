@@ -1,0 +1,14 @@
+{
+  "global": {},
+  "env:development": {},
+  "env:test": {},
+  "env:production": {},
+  "os:android": {},
+  "os:blackberry": {},
+  "os:ios": {},
+  "os:mobileweb": {},
+  "dependencies": {
+    "com.orthlieb.combobox": "2.0",
+    "to.t10.listLocations": "1.0"
+  }
+}

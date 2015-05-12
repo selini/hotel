@@ -1,0 +1,11 @@
+
+".container" : {
+  
+}
+"#webview": {
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.FILL,
+	font: {
+		fontSize: 12
+	}
+}

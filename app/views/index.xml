@@ -1,0 +1,21 @@
+<Alloy>
+	<Window class="container">s
+		<TextField id="arrival" onClick="showPickerA"></TextField>
+		<TextField id="departure" onClick="showPickerD"></TextField>
+		<TextField id="numberfRooms" onClick="showPickerR"></TextField>
+		<TextField id="numberfAdults" onClick="showPickerAD"></TextField>
+		<TextField id="Childrean17" onClick="showPickerC1"></TextField>
+		<TextField id="Childrean712" onClick="showPickerC2"></TextField>
+		<Button id="book" onClick="BookNow">Book Now!</Button>
+		<Picker id="Numberpicker" selectionIndicator="true" useSpinner="true" onChange="setNumber">
+			<PickerColumn>
+				<PickerRow title="1"/>
+				<PickerRow title="2"/>
+				<PickerRow title="3"/>
+				<PickerRow title="4"/>
+				<PickerRow title="5"/>
+				<PickerRow title="6"/>
+			</PickerColumn>
+			</Picker>
+	</Window>
+</Alloy>
